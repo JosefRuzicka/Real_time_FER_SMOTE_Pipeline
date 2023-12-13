@@ -11,4 +11,5 @@ If you use the VGG19_Josef_json.json and the VGG19_Josef.h5 weights, you can ski
 
 ## Requirements:
 Intel Real Sense SKD 2.0. https://github.com/IntelRealSense/librealsense/releases
+
 FER-2013 dataset (if you want to train a model again). https://www.kaggle.com/datasets/msambare/fer2013
